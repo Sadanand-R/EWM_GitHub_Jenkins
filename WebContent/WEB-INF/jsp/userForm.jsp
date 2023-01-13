@@ -16,6 +16,10 @@
 			<td><form:input path="name" /></td>
 		</tr>
 		<tr>
+			<td>Middle Name :</td>
+			<td><form:input path="name" /></td>
+		</tr>
+		<tr>
 			<td>Last Name :</td>
 			<td><form:input path="name" /></td>
 		</tr>
