@@ -33,13 +33,17 @@
 			<td>Country :</td>
 			<td><form:select path="country">
 				<form:option value="0" label="Select" />
-				<form:option value="1" label="India" />
+				<form:option value="1" label="Canada" />
 				<form:option value="2" label="USA" />
-				<form:option value="3" label="UK" />
-				<form:option value="4" label="Australia" />
-				<form:option value="5" label="Japan" />
-				<form:option value="6" label="Dubai" />
+				<form:option value="3" label="Brazil" />
+				<form:option value="4" label="UK" />
+				<form:option value="5" label="Europe" />
 				<form:option value="6" label="South Africa" />
+				<form:option value="7" label="Russia" />
+				<form:option value="8" label="India" />
+				<form:option value="9" label="Australia" />
+				<form:option value="10" label="New Zealand" />
+				
 			</form:select></td>
 		</tr>
 		<tr>
