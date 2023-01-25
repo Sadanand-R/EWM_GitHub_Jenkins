@@ -50,8 +50,9 @@
 				<form:option value="7" label="South Africa" />
 				<form:option value="8" label="Russia" />
 				<form:option value="9" label="India" />
-				<form:option value="10" label="Australia" />
-				<form:option value="11" label="New Zealand" />
+				<form:option value="10" label="Philippines" />
+				<form:option value="11" label="Australia" />
+				<form:option value="12" label="New Zealand" />
 				
 			</form:select></td>
 		</tr>
